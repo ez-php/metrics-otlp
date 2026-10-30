@@ -1,6 +1,6 @@
 {
   "name": "ez-php/metrics-otlp",
-  "version": "2.6.3",
+  "version": "2.6.4",
   "description": "Exports ez-php/metrics counters, gauges and histograms as OTLP/HTTP JSON (delta temporality) to an OpenTelemetry collector",
   "type": "library",
   "license": "MIT",
